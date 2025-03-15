@@ -15,6 +15,7 @@ env/
 venv/
 ENV/
 env.bak/
+.env
 venv.bak/
 *.egg
 *.egg-info/
